@@ -1,0 +1,151 @@
+Order ID,Order Date,Customer Name,State,Region,City,Category,Product Name,Quantity,Sales,Discount,Profit
+1001,2025-12-13,Customer_35,Maharashtra,West,Pune,Electronics,Headphones,4,30256.0,0.05,4667.74
+1002,2025-09-16,Customer_2,Maharashtra,West,Pune,Grocery,Sugar,1,1226.0,0.0,19.12
+1003,2025-01-04,Customer_11,Rajasthan,North,Jaipur,Electronics,Smartwatch,4,59878.0,0.2,-1988.52
+1004,2025-07-14,Customer_7,Uttar Pradesh,North,Lucknow,Furniture,Sofa,3,21915.0,0.1,-1154.27
+1005,2025-07-13,Customer_6,Delhi,North,New Delhi,Furniture,Sofa,1,24161.5,0.15,1470.67
+1006,2025-04-27,Customer_19,Rajasthan,North,Jaipur,Furniture,Sofa,4,93348.0,0.0,-3384.12
+1007,2025-07-06,Customer_11,Maharashtra,West,Pune,Electronics,Laptop,7,65509.5,0.15,5942.06
+1008,2025-11-08,Customer_11,Delhi,North,New Delhi,Furniture,Table,5,116235.0,0.25,7099.32
+1009,2025-11-24,Customer_15,Rajasthan,North,Jaipur,Grocery,Wheat,3,46191.0,0.15,-878.35
+1010,2025-04-19,Customer_21,Delhi,North,New Delhi,Electronics,Mobile,1,10586.5,0.15,-208.32
+1011,2025-03-13,Customer_16,Karnataka,South,Bengaluru,Grocery,Sugar,7,149201.5,0.15,-8525.15
+1012,2025-03-12,Customer_33,Rajasthan,North,Jaipur,Grocery,Oil,7,135597.0,0.15,1165.99
+1013,2025-12-15,Customer_28,West Bengal,East,Kolkata,Electronics,Laptop,2,10516.0,0.25,-897.42
+1014,2025-10-11,Customer_1,Telangana,South,Hyderabad,Electronics,Smartwatch,7,138432.0,0.15,8130.71
+1015,2025-08-21,Customer_1,Maharashtra,West,Pune,Grocery,Oil,6,23430.0,0.1,1103.46
+1016,2025-09-17,Customer_13,Tamil Nadu,South,Chennai,Grocery,Wheat,2,41479.0,0.1,7016.9
+1017,2025-02-27,Customer_24,Gujarat,West,Ahmedabad,Furniture,Table,1,19876.0,0.1,1257.12
+1018,2025-09-06,Customer_5,Tamil Nadu,South,Chennai,Electronics,Laptop,4,75364.0,0.0,-1831.64
+1019,2025-11-07,Customer_28,Rajasthan,North,Jaipur,Electronics,Mobile,8,146124.0,0.05,1877.74
+1020,2025-08-13,Customer_34,Karnataka,South,Bengaluru,Grocery,Wheat,5,66620.0,0.25,4105.8
+1021,2025-10-11,Customer_15,West Bengal,East,Kolkata,Electronics,Mobile,4,9392.0,0.1,-723.4
+1022,2025-02-04,Customer_3,Telangana,South,Hyderabad,Electronics,Laptop,2,46889.0,0.25,-5423.71
+1023,2025-03-09,Customer_31,Delhi,North,New Delhi,Electronics,Mobile,5,110855.0,0.15,-3960.73
+1024,2025-07-01,Customer_28,Karnataka,South,Bengaluru,Furniture,Wardrobe,4,13362.0,0.0,1973.5
+1025,2025-02-25,Customer_16,Uttar Pradesh,North,Lucknow,Furniture,Chair,2,4472.0,0.15,529.77
+1026,2025-05-08,Customer_5,Karnataka,South,Bengaluru,Electronics,Smartwatch,3,42222.0,0.05,713.42
+1027,2025-02-17,Customer_16,West Bengal,East,Kolkata,Grocery,Rice,1,21619.0,0.2,2900.01
+1028,2025-03-26,Customer_25,Gujarat,West,Ahmedabad,Furniture,Wardrobe,8,58032.0,0.15,9907.97
+1029,2025-10-12,Customer_32,Maharashtra,West,Mumbai,Furniture,Sofa,8,76776.0,0.15,8366.85
+1030,2025-02-01,Customer_21,Gujarat,West,Ahmedabad,Electronics,Headphones,4,8664.0,0.2,901.53
+1031,2025-04-06,Customer_5,Maharashtra,West,Mumbai,Electronics,Smartwatch,3,6340.5,0.2,-587.34
+1032,2025-11-01,Customer_3,Telangana,South,Hyderabad,Electronics,Mobile,7,29246.0,0.2,-1251.79
+1033,2025-06-10,Customer_16,Telangana,South,Hyderabad,Electronics,Smartwatch,6,52767.0,0.05,7084.03
+1034,2025-02-07,Customer_1,Tamil Nadu,South,Chennai,Furniture,Table,5,76160.0,0.1,14879.54
+1035,2025-03-09,Customer_23,West Bengal,East,Kolkata,Grocery,Rice,2,35734.0,0.05,3040.92
+1036,2025-12-27,Customer_20,Maharashtra,West,Pune,Electronics,Headphones,5,27095.0,0.15,4067.6
+1037,2025-03-10,Customer_17,Telangana,South,Hyderabad,Grocery,Rice,5,109937.5,0.0,25470.21
+1038,2025-06-25,Customer_14,Maharashtra,West,Pune,Electronics,Mobile,5,47412.5,0.2,-2535.51
+1039,2025-05-22,Customer_3,Tamil Nadu,South,Chennai,Grocery,Sugar,5,9572.5,0.0,1342.88
+1040,2025-12-28,Customer_28,Maharashtra,West,Mumbai,Furniture,Table,5,27722.5,0.25,-21.7
+1041,2025-07-09,Customer_10,Rajasthan,North,Jaipur,Electronics,Laptop,2,45786.0,0.05,4441.72
+1042,2025-04-18,Customer_16,Uttar Pradesh,North,Lucknow,Electronics,Laptop,5,60992.5,0.0,13398.67
+1043,2025-04-01,Customer_27,Maharashtra,West,Pune,Furniture,Wardrobe,3,24021.0,0.05,5433.43
+1044,2025-05-17,Customer_11,Maharashtra,West,Mumbai,Electronics,Headphones,7,155410.5,0.25,17078.29
+1045,2025-08-24,Customer_23,Maharashtra,West,Pune,Furniture,Chair,8,60308.0,0.05,10753.48
+1046,2025-05-23,Customer_5,Tamil Nadu,South,Chennai,Electronics,Mobile,1,21877.5,0.05,1156.73
+1047,2025-05-14,Customer_12,Tamil Nadu,South,Chennai,Furniture,Wardrobe,6,6924.0,0.0,1475.58
+1048,2025-06-10,Customer_28,Telangana,South,Hyderabad,Furniture,Chair,2,39596.0,0.15,146.75
+1049,2025-12-29,Customer_28,Telangana,South,Hyderabad,Grocery,Rice,7,134004.5,0.05,1306.56
+1050,2025-06-19,Customer_21,Maharashtra,West,Mumbai,Grocery,Wheat,6,86295.0,0.0,20250.19
+1051,2025-12-23,Customer_19,Maharashtra,West,Pune,Grocery,Oil,5,110512.5,0.15,-237.06
+1052,2025-03-31,Customer_20,Rajasthan,North,Jaipur,Electronics,Mobile,7,154266.0,0.15,15919.54
+1053,2025-10-24,Customer_21,Uttar Pradesh,North,Lucknow,Grocery,Rice,5,48257.5,0.05,3006.43
+1054,2025-03-28,Customer_6,West Bengal,East,Kolkata,Furniture,Wardrobe,4,68000.0,0.15,9392.2
+1055,2025-04-26,Customer_13,Tamil Nadu,South,Chennai,Grocery,Oil,2,49726.0,0.05,6721.56
+1056,2025-02-07,Customer_30,Gujarat,West,Ahmedabad,Electronics,Laptop,4,63276.0,0.2,8748.2
+1057,2025-12-02,Customer_1,Uttar Pradesh,North,Lucknow,Grocery,Wheat,7,115146.5,0.15,-3086.46
+1058,2025-10-13,Customer_16,Maharashtra,West,Pune,Furniture,Table,3,69160.5,0.2,1569.83
+1059,2025-11-01,Customer_21,Maharashtra,West,Pune,Furniture,Table,8,177000.0,0.2,31807.09
+1060,2025-08-19,Customer_17,West Bengal,East,Kolkata,Grocery,Sugar,8,43720.0,0.25,5470.03
+1061,2025-02-09,Customer_19,Karnataka,South,Bengaluru,Grocery,Oil,8,166296.0,0.05,2612.94
+1062,2025-04-29,Customer_25,Karnataka,South,Bengaluru,Furniture,Sofa,6,107697.0,0.0,-914.11
+1063,2025-08-27,Customer_27,Gujarat,West,Ahmedabad,Grocery,Wheat,2,27688.0,0.15,-20.37
+1064,2025-10-22,Customer_25,Maharashtra,West,Mumbai,Electronics,Smartwatch,7,135723.0,0.25,-17301.12
+1065,2025-08-03,Customer_35,West Bengal,East,Kolkata,Electronics,Headphones,5,124697.5,0.15,19457.1
+1066,2025-01-15,Customer_25,Rajasthan,North,Jaipur,Grocery,Wheat,8,59520.0,0.1,2822.29
+1067,2025-10-01,Customer_2,Delhi,North,New Delhi,Grocery,Sugar,3,46695.0,0.05,10625.44
+1068,2025-08-25,Customer_12,Uttar Pradesh,North,Lucknow,Grocery,Rice,2,42623.0,0.15,-2527.12
+1069,2025-07-14,Customer_18,Maharashtra,West,Mumbai,Furniture,Wardrobe,6,43113.0,0.15,-83.91
+1070,2025-06-29,Customer_15,Uttar Pradesh,North,Lucknow,Furniture,Chair,8,7080.0,0.25,201.73
+1071,2025-11-15,Customer_10,Maharashtra,West,Pune,Grocery,Rice,1,8352.5,0.05,1546.06
+1072,2025-05-12,Customer_24,Karnataka,South,Bengaluru,Electronics,Smartwatch,2,37460.0,0.05,2728.72
+1073,2025-06-09,Customer_25,Gujarat,West,Ahmedabad,Grocery,Rice,3,31326.0,0.0,3872.06
+1074,2025-05-05,Customer_7,Uttar Pradesh,North,Lucknow,Grocery,Wheat,2,39303.0,0.25,4552.79
+1075,2025-07-09,Customer_5,Tamil Nadu,South,Chennai,Grocery,Rice,1,11627.0,0.2,137.74
+1076,2025-07-05,Customer_30,Rajasthan,North,Jaipur,Grocery,Oil,1,14014.0,0.15,-957.69
+1077,2025-08-27,Customer_28,Gujarat,West,Ahmedabad,Furniture,Table,5,102160.0,0.2,11822.54
+1078,2025-05-05,Customer_30,Telangana,South,Hyderabad,Furniture,Sofa,4,12358.0,0.1,2238.73
+1079,2025-04-04,Customer_32,Telangana,South,Hyderabad,Grocery,Sugar,6,7140.0,0.15,1108.74
+1080,2025-05-22,Customer_1,Karnataka,South,Bengaluru,Furniture,Sofa,6,56481.0,0.2,5291.62
+1081,2025-05-04,Customer_31,Rajasthan,North,Jaipur,Electronics,Laptop,4,95380.0,0.15,4442.17
+1082,2025-05-05,Customer_20,West Bengal,East,Kolkata,Furniture,Chair,2,19783.0,0.05,1081.21
+1083,2025-06-30,Customer_30,Telangana,South,Hyderabad,Furniture,Wardrobe,6,85155.0,0.25,2706.5
+1084,2025-03-03,Customer_35,Tamil Nadu,South,Chennai,Furniture,Sofa,4,16814.0,0.25,-1270.43
+1085,2025-09-26,Customer_19,Gujarat,West,Ahmedabad,Electronics,Mobile,8,74480.0,0.25,3243.06
+1086,2025-12-29,Customer_35,Maharashtra,West,Pune,Electronics,Headphones,4,48300.0,0.05,1159.86
+1087,2025-03-06,Customer_32,Gujarat,West,Ahmedabad,Furniture,Chair,1,18382.0,0.1,2314.14
+1088,2025-01-27,Customer_17,Maharashtra,West,Pune,Electronics,Headphones,8,127492.0,0.15,281.98
+1089,2025-12-18,Customer_4,West Bengal,East,Kolkata,Electronics,Laptop,7,114544.5,0.0,14101.15
+1090,2025-08-02,Customer_15,Gujarat,West,Ahmedabad,Electronics,Headphones,2,16765.0,0.0,1968.58
+1091,2025-06-06,Customer_4,Rajasthan,North,Jaipur,Furniture,Wardrobe,8,79948.0,0.2,14418.04
+1092,2025-02-11,Customer_11,Telangana,South,Hyderabad,Grocery,Rice,4,82986.0,0.05,1056.18
+1093,2025-11-01,Customer_31,Karnataka,South,Bengaluru,Electronics,Laptop,3,1012.5,0.15,35.59
+1094,2025-08-21,Customer_5,Tamil Nadu,South,Chennai,Electronics,Mobile,5,117077.5,0.1,14934.75
+1095,2025-03-18,Customer_18,Karnataka,South,Bengaluru,Furniture,Table,7,28073.5,0.2,-1381.89
+1096,2025-10-19,Customer_19,Gujarat,West,Ahmedabad,Electronics,Laptop,3,30988.5,0.2,3347.4
+1097,2025-09-14,Customer_35,West Bengal,East,Kolkata,Electronics,Smartwatch,5,115892.5,0.15,21185.48
+1098,2025-05-09,Customer_2,West Bengal,East,Kolkata,Furniture,Chair,1,14406.5,0.25,-527.81
+1099,2025-03-31,Customer_31,Maharashtra,West,Pune,Electronics,Laptop,5,95660.0,0.0,17116.7
+1100,2025-09-09,Customer_6,Rajasthan,North,Jaipur,Grocery,Sugar,5,30985.0,0.2,436.85
+1101,2025-03-24,Customer_22,West Bengal,East,Kolkata,Furniture,Wardrobe,6,64620.0,0.25,-6588.23
+1102,2025-10-09,Customer_3,Uttar Pradesh,North,Lucknow,Grocery,Sugar,5,109807.5,0.15,15819.95
+1103,2025-07-26,Customer_33,West Bengal,East,Kolkata,Electronics,Headphones,5,54215.0,0.0,13068.82
+1104,2025-11-15,Customer_32,Maharashtra,West,Mumbai,Grocery,Sugar,7,14182.0,0.05,1260.29
+1105,2025-08-13,Customer_32,West Bengal,East,Kolkata,Electronics,Mobile,5,91232.5,0.05,19308.0
+1106,2025-07-28,Customer_6,Maharashtra,West,Pune,Electronics,Mobile,3,31297.5,0.2,-3522.98
+1107,2025-05-30,Customer_33,Karnataka,South,Bengaluru,Electronics,Smartwatch,2,42948.0,0.05,3558.07
+1108,2025-07-16,Customer_13,Tamil Nadu,South,Chennai,Furniture,Wardrobe,8,65892.0,0.15,4307.99
+1109,2025-09-17,Customer_18,Telangana,South,Hyderabad,Grocery,Wheat,2,18604.0,0.15,36.51
+1110,2025-06-26,Customer_22,Maharashtra,West,Mumbai,Furniture,Sofa,8,40952.0,0.15,2521.59
+1111,2025-05-03,Customer_25,Rajasthan,North,Jaipur,Grocery,Sugar,8,86352.0,0.05,19650.76
+1112,2025-07-15,Customer_25,Karnataka,South,Bengaluru,Furniture,Chair,6,147912.0,0.15,16502.3
+1113,2025-02-21,Customer_29,Gujarat,West,Ahmedabad,Furniture,Chair,3,50127.0,0.2,-855.58
+1114,2025-12-02,Customer_10,Maharashtra,West,Pune,Grocery,Sugar,1,23923.0,0.05,1347.51
+1115,2025-02-11,Customer_22,Maharashtra,West,Pune,Furniture,Sofa,6,124035.0,0.25,-1747.45
+1116,2025-05-01,Customer_19,Rajasthan,North,Jaipur,Furniture,Sofa,8,143824.0,0.0,19450.45
+1117,2025-02-21,Customer_29,Karnataka,South,Bengaluru,Grocery,Rice,7,24328.5,0.25,1893.58
+1118,2025-05-31,Customer_23,Gujarat,West,Ahmedabad,Grocery,Oil,1,1757.0,0.1,273.23
+1119,2025-04-03,Customer_11,Delhi,North,New Delhi,Furniture,Table,4,70620.0,0.15,4927.75
+1120,2025-08-25,Customer_17,Gujarat,West,Ahmedabad,Electronics,Smartwatch,4,66230.0,0.2,-4883.23
+1121,2025-02-07,Customer_29,West Bengal,East,Kolkata,Furniture,Chair,8,77400.0,0.25,2372.01
+1122,2025-06-04,Customer_13,Delhi,North,New Delhi,Grocery,Oil,7,160090.0,0.1,8599.62
+1123,2025-06-01,Customer_19,Uttar Pradesh,North,Lucknow,Furniture,Chair,4,50986.0,0.2,-457.8
+1124,2025-01-26,Customer_32,Maharashtra,West,Mumbai,Grocery,Sugar,5,2575.0,0.2,367.85
+1125,2025-12-14,Customer_9,Tamil Nadu,South,Chennai,Electronics,Headphones,4,84442.0,0.05,10099.32
+1126,2025-03-09,Customer_6,Maharashtra,West,Pune,Grocery,Rice,5,73472.5,0.0,9101.2
+1127,2025-07-07,Customer_34,Tamil Nadu,South,Chennai,Furniture,Wardrobe,3,20488.5,0.05,3468.44
+1128,2025-06-23,Customer_8,Rajasthan,North,Jaipur,Furniture,Table,5,80195.0,0.1,11278.18
+1129,2025-07-23,Customer_24,West Bengal,East,Kolkata,Electronics,Mobile,4,89646.0,0.25,6184.55
+1130,2025-12-11,Customer_17,Maharashtra,West,Pune,Furniture,Chair,5,89160.0,0.0,7706.62
+1131,2025-11-14,Customer_21,Telangana,South,Hyderabad,Furniture,Sofa,2,44726.0,0.05,3344.45
+1132,2025-03-01,Customer_9,Telangana,South,Hyderabad,Electronics,Laptop,8,185780.0,0.1,20703.04
+1133,2025-10-03,Customer_9,Maharashtra,West,Mumbai,Electronics,Headphones,8,32440.0,0.0,663.07
+1134,2025-08-01,Customer_7,Uttar Pradesh,North,Lucknow,Furniture,Sofa,7,136468.5,0.25,11551.57
+1135,2025-08-16,Customer_29,West Bengal,East,Kolkata,Grocery,Sugar,5,6610.0,0.25,-146.57
+1136,2025-07-23,Customer_18,Karnataka,South,Bengaluru,Furniture,Chair,6,108546.0,0.25,-2793.02
+1137,2025-11-02,Customer_2,Karnataka,South,Bengaluru,Electronics,Smartwatch,2,43935.0,0.05,5528.99
+1138,2025-10-11,Customer_14,Maharashtra,West,Mumbai,Furniture,Table,3,56250.0,0.05,-2592.2
+1139,2025-03-16,Customer_9,Telangana,South,Hyderabad,Electronics,Mobile,6,30510.0,0.2,-3533.55
+1140,2025-07-03,Customer_16,Rajasthan,North,Jaipur,Furniture,Table,2,43823.0,0.0,-458.35
+1141,2025-08-04,Customer_34,Telangana,South,Hyderabad,Furniture,Chair,3,26836.5,0.0,-321.3
+1142,2025-02-25,Customer_29,Maharashtra,West,Pune,Grocery,Rice,8,119512.0,0.1,8442.1
+1143,2025-02-01,Customer_31,Rajasthan,North,Jaipur,Electronics,Laptop,5,76295.0,0.25,11892.45
+1144,2025-02-11,Customer_21,Uttar Pradesh,North,Lucknow,Furniture,Chair,8,188748.0,0.15,-14713.43
+1145,2025-10-08,Customer_21,Telangana,South,Hyderabad,Electronics,Laptop,3,27784.5,0.2,2035.39
+1146,2025-12-26,Customer_8,Uttar Pradesh,North,Lucknow,Grocery,Oil,8,134524.0,0.2,1667.17
+1147,2025-08-21,Customer_26,Rajasthan,North,Jaipur,Grocery,Wheat,7,105325.5,0.05,6053.84
+1148,2025-07-11,Customer_10,Uttar Pradesh,North,Lucknow,Grocery,Rice,6,85404.0,0.1,9923.86
+1149,2025-07-10,Customer_9,West Bengal,East,Kolkata,Electronics,Laptop,2,6609.0,0.15,-469.44
+1150,2025-08-05,Customer_4,Rajasthan,North,Jaipur,Electronics,Headphones,2,27422.0,0.1,4901.65
